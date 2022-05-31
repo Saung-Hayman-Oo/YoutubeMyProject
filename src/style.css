@@ -1,0 +1,24 @@
+#search-btn{
+    outline: none;
+}
+.user-img{
+    margin-left: -15px;
+}
+/* breadcamp */
+.current{ 
+    color: rgb(209, 59, 84);
+}
+.fullScreen{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+}
+
+@font-face {
+    font-family: 'Defused';
+    src: url('./SK_EDITZ_FONTS/Defused.ttf');
+}
+*{
+    font-family: 'Defused', sans-serif !important;
+                                                
+}
